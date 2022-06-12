@@ -19,3 +19,6 @@ Clusterin films by user based ratings with respect to their means and standard d
 
 ### Final
 As the course final, I have [compared](https://github.com/Han-Droidd/ETM-Projects/blob/main/ETM58D%2C%20Accuracy%20Comparison%20of%20Classification%20Algorithms.ipynb) some classification methods to determine their strengths.
+
+## Project
+[here](https://github.com/ETM-58D/spring22-burcakkalmuk/blob/gh-pages/Project/project.ipynb)
